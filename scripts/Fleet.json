@@ -1,0 +1,16 @@
+{
+    "_id" : "1d37b6e4-e79b-4326-9431-4179baec054c",
+    "name" : "ABC Travels",
+    "address" : "Madurai",
+    "gstinNumber" : "GST1234",
+    "documentVerified" : false
+}
+
+
+{
+    "_id" : "b6875d78-4553-4e92-aee9-fc847f9e764f",
+    "name" : "ABCD Travels",
+    "address" : "Madurai",
+    "gstinNumber" : "GST1235",
+    "documentVerified" : false
+}

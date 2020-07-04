@@ -1,0 +1,29 @@
+
+{
+    "_id" : "1f7b1d1c-d3ca-453a-bb7e-74d0693a443b",
+    "fleetId" : "1d37b6e4-e79b-4326-9431-4179baec054c",
+    "engineNumber" : "MX2A3343DFDFDFDF",
+    "mileage" : NumberDecimal("12.5"),
+    "regNumber" : "TN59BA0610",
+    "type" : "Tata ACE"
+}
+
+
+{
+    "_id" : "b21b8ec8-bb7d-4fb3-b804-16a1b089f666",
+    "fleetId" : "1d37b6e4-e79b-4326-9431-4179baec054c",
+    "engineNumber" : "YXWA3232323223A",
+    "mileage" : NumberDecimal("13.5"),
+    "regNumber" : "TN59CB7549",
+    "type" : "Ashok Leyland Dost+"
+}
+
+
+{
+    "_id" : "fa3c1c50-9983-49bd-9e3b-577622467101",
+    "fleetId" : "1d37b6e4-e79b-4326-9431-4179baec054c",
+    "engineNumber" : "QAEERE32323FSS",
+    "mileage" : NumberDecimal("10.5"),
+    "regNumber" : "TN63Y9669",
+    "type" : "Piaggio Ape"
+}

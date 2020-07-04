@@ -1,0 +1,20 @@
+
+{
+    "_id" : "2b3ca601-8842-41a8-8b86-743a1bdb4a69",
+    "personType" : [ 
+        "DRIVER", 
+        "FLEET"
+    ],
+    "personId" : "a0c60adf-8c95-4369-b267-b72793d13336",
+    "fleetId" : "1d37b6e4-e79b-4326-9431-4179baec054c"
+}
+
+{
+    "_id" : "fcc8b901-e39b-4d0d-8090-62d804cce95f",
+    "personType" : [ 
+        "DRIVER", 
+        "FLEET"
+    ],
+    "personId" : "b577e802-55db-43af-a837-c7a78bcee4e2",
+    "fleetId" : "b6875d78-4553-4e92-aee9-fc847f9e764f"
+}

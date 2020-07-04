@@ -1,0 +1,72 @@
+{
+    "_id" : "c48a44c8-ae06-4d0f-9e8c-9a2f8d8473f0",
+    "personId" : "a0c60adf-8c95-4369-b267-b72793d13336",
+    "vehicleId" : "1f7b1d1c-d3ca-453a-bb7e-74d0693a443b",
+    "firstName" : "Saravanakumar",
+    "lastName" : "Vijayakumar",
+    "vehicleNumber" : "TN59BA0610",
+    "payment" : NumberDecimal("100.0"),
+    "paymentStatus" : "NOT_SETTLED",
+    "tripDate" : ISODate("2020-06-01T00:00:00.000Z")
+}
+
+{
+    "_id" : "15031de3-4fac-4856-a25b-8afba28ad621",
+    "personId" : "a0c60adf-8c95-4369-b267-b72793d13336",
+    "vehicleId" : "1f7b1d1c-d3ca-453a-bb7e-74d0693a443b",
+    "firstName" : "Saravanakumar",
+    "lastName" : "Vijayakumar",
+    "vehicleNumber" : "TN59BA0610",
+    "payment" : NumberDecimal("1000.0"),
+    "paymentStatus" : "NOT_SETTLED",
+    "tripDate" : ISODate("2020-06-01T00:00:00.000Z")
+}
+
+
+{
+    "_id" : "d98bddd7-ecf2-4b7a-84a0-d5e965acd6f2",
+    "personId" : "a0c60adf-8c95-4369-b267-b72793d13336",
+    "vehicleId" : "1f7b1d1c-d3ca-453a-bb7e-74d0693a443b",
+    "firstName" : "Saravanakumar",
+    "lastName" : "Vijayakumar",
+    "vehicleNumber" : "TN59BA0610",
+    "payment" : NumberDecimal("100.0"),
+    "paymentStatus" : "SETTLED",
+    "tripDate" : ISODate("2020-06-02T00:00:00.000Z")
+}
+
+{
+    "_id" : "1b284d77-abf4-4f6b-bc9f-af7994a89d7e",
+    "personId" : "a0c60adf-8c95-4369-b267-b72793d13336",
+    "vehicleId" : "1f7b1d1c-d3ca-453a-bb7e-74d0693a443b",
+    "firstName" : "Saravanakumar",
+    "lastName" : "Vijayakumar",
+    "vehicleNumber" : "TN59BA0610",
+    "payment" : NumberDecimal("200.0"),
+    "paymentStatus" : "SETTLED",
+    "tripDate" : ISODate("2020-06-01T00:00:00.000Z")
+}
+
+{
+    "_id" : "3a5c28be-8409-42af-9ce4-686fa3868a60",
+    "personId" : "a0c60adf-8c95-4369-b267-b72793d13336",
+    "vehicleId" : "1f7b1d1c-d3ca-453a-bb7e-74d0693a443b",
+    "firstName" : "Saravanakumar",
+    "lastName" : "Vijayakumar",
+    "vehicleNumber" : "TN59BA0610",
+    "payment" : NumberDecimal("300.0"),
+    "paymentStatus" : "NOT_SETTLED",
+    "tripDate" : ISODate("2020-06-01T00:00:00.000Z")
+}
+
+{
+    "_id" : "ac33ad7a-f6c9-4c2d-9be7-222f07f9fe75",
+    "personId" : "a0c60adf-8c95-4369-b267-b72793d13336",
+    "vehicleId" : "1f7b1d1c-d3ca-453a-bb7e-74d0693a443b",
+    "firstName" : "Saravanakumar",
+    "lastName" : "Vijayakumar",
+    "vehicleNumber" : "TN59BA0610",
+    "payment" : NumberDecimal("4400.0"),
+    "paymentStatus" : "NOT_SETTLED",
+    "tripDate" : ISODate("2020-06-01T00:00:00.000Z")
+}

@@ -1,0 +1,30 @@
+{
+    "_id" : "a0c60adf-8c95-4369-b267-b72793d13336",
+    "firstName" : "Saravanakumar",
+    "lastName" : "Vijayakumar",
+    "email" : "Saravana1@yopmail.com",
+    "mobileNumber" : "8056657590",
+    "gender" : "Male",
+    "address" : "Madurai",
+    "status" : "ACTIVE",
+    "documentVerified" : true
+}
+
+{
+    "_id" : "b577e802-55db-43af-a837-c7a78bcee4e2",
+    "firstName" : "Sakthivel",
+    "lastName" : "Vijayakumar",
+    "email" : "Sakthi@yopmail.com",
+    "mobileNumber" : "8870121143",
+    "personType" : [ 
+        "DRIVER", 
+        "FLEET"
+    ],
+    "gender" : "Male",
+    "address" : "Madurai",
+    "licenseNumber" : "License1235",
+    "expiredDate" : ISODate("2035-05-15T01:34:20.203Z"),
+    "issuedDate" : ISODate("2012-07-04T03:23:20.201Z"),
+    "status" : "ACTIVE",
+    "documentVerified" : false
+}

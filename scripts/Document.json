@@ -1,0 +1,27 @@
+{
+    "_id" : "cfffd6d8-18ab-4349-907f-422c70c95263",
+    "entityType" : "PERSON",
+    "entityId" : "a0c60adf-8c95-4369-b267-b72793d13336",
+    "documentType" : "Aadhaar Card",
+    "url" : "",
+    "status" : "PENDING"
+}
+
+{
+    "_id" : "ee8eb59d-0b14-4c43-9d60-71b6da15313b",
+    "entityType" : "PERSON",
+    "entityId" : "a0c60adf-8c95-4369-b267-b72793d13336",
+    "documentType" : "Voter Id",
+    "url" : "",
+    "status" : "PENDING"
+}
+
+{
+    "_id" : "b1f9106f-1ad4-4a91-8542-358f73ad286e",
+    "entityType" : "FLEET",
+    "entityId" : "1d37b6e4-e79b-4326-9431-4179baec054c",
+    "documentType" : "GSTIN Certificate",
+    "url" : "",
+    "status" : "PENDING",
+    "__v" : 0
+}

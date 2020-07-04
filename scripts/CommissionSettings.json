@@ -1,0 +1,5 @@
+{
+    "_id" : "d81e70ed-7851-49fa-88af-61cccc2c0039",
+    "cronSetting" : "0 0 0 * * ?",
+    "description" : "Every day at midnight - 12am"
+}
